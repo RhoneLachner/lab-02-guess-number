@@ -1,5 +1,5 @@
 
-import {compareNumbers} from './utils.js';
+
 
 // import functions and grab DOM elements
 
@@ -19,9 +19,9 @@ console.log(correctNumber);
 
 
 
+
 // initialize state
 let attempts = 4;
-
 
 // set event listeners to update state and DOM
 

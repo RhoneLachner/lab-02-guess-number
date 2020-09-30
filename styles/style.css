@@ -26,12 +26,12 @@ body {
     background-color: lightblue;
 
     /*font-family: 'Titillium Web', sans-serif;*/
-    font-family: font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Mono', monospace;
    
-}
-h1 {
-    font-size: 25px;
-}
+
+};
+
+
 main {
     display: flex;
     flex-direction: column;
@@ -55,6 +55,7 @@ section {
     border: solid 2px var(--color1);
 }
 
+/* some changes for dev branch to comment */
 header {
     display: flex;
     justify-content: flex-end;
@@ -69,7 +70,13 @@ footer {
     background-color: var(--color3);
     box-shadow: var(--shadow);
 }
-
+body {
+    text-align: center;
+}
+h1 {
+    font-size: 25px;
+    text-align: center;
+}
 
 h2 {
     font-size: 1.8rem;

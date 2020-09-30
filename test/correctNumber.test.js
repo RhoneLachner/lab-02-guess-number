@@ -1,5 +1,5 @@
 // IMPORT MODULES under test here:
- import { compareNumbers } from '../utils.js';
+import { compareNumbers } from '../utils.js';
 
 const test = QUnit.test;
 
